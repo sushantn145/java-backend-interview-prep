@@ -1,1 +1,7 @@
+JDK(Java Development Kit) vs JRE(Java Runtime Environment) vs JVM(Java Virtual Machine)
+
+- JDK (Java development tool) provide tools and libraries to develop java application, working with JRE and JVM.
+- JRE (Java runtime enivirnment) offers libraries and JVM needed to run java program.
+- JVM (Java virtual machine) executes compiled java byte code on the system
+
 
